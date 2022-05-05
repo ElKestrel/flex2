@@ -1,0 +1,38 @@
+body{
+    text-align: center;
+}
+.one{
+    background-color: aqua;
+    padding: 50px;
+}
+.deux{
+    display: flex;
+    gap: 5px;
+    margin-top: 5px;
+}
+.de{
+    background-color: aqua;
+    padding: 50px;
+    width: 100%;
+}
+.trois{
+    display: flex;
+    gap: 5px;
+    margin-top: 5px;
+}
+.tr{
+    background-color: aqua;
+    padding: 50px;
+    width: 100%;
+}
+.douze{
+    display: flex;
+    gap: 5px;
+    margin-top: 5px;
+}
+.dz{
+    background-color: aqua;
+    padding: 50px;
+    width: 100%;
+    
+}
